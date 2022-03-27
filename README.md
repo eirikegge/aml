@@ -1,6 +1,8 @@
 # aml
 **Applied Machine Learning (CBS Project)**
 
+ - Course Content [https://kursuskatalog.cbs.dk/2021-2022/KAN-CDSCV1006U.aspx]
+
 
 **Contributors** <br>
  - Henry Alexander Stoll
